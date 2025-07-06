@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalho com suporte técnico na área da informática
-- 🌱 Estudando JAVA
+- 🌱 Estudando JAVA e Spring
 - Cursando Análise e Desenvolvimento de Sistemas
 
 - <div style="display: inline_block"><br>
