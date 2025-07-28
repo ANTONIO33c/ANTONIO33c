@@ -2,7 +2,7 @@
 
 
 - 🔭 Trabalho com Suporte Técnico na área da informática
-- 🌱 Estudando JAVA e Spring && React e TypeScript
+- 🌱 Estudando Java, Spring Framework e React
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas
 
 <div style="display: inline_block"><br>
